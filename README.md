@@ -5,7 +5,7 @@ Task is to create web-service, which includes:
 1. DB Postgres
 2. Back-End server on Spring Boot
 
-To build this project, need to type in the command "docker-compose build". To get the project up: "docker-compose up". Need docker engine to work.
+To build this project, need to type in the command "**docker-compose build**". To get the project up: "**docker-compose up**". Need docker engine to work.
 Docker compose consists of Postgres image, back-end image and PgAdmin image to gain access to BD through web.
 
 Possible urls to play around the project:
